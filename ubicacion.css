@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.location {
+    width: 45%;
+    margin-bottom: 20px;
+}
+
+.location h2 {
+    color: #333;
+    font-size: 1.2em;
+}
+
+.location p {
+    color: #666;
+}
+
+.image {
+    width: 100%;
+    text-align: center;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}

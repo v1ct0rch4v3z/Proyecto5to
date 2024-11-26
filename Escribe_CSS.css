@@ -1,0 +1,29 @@
+*{/*selector general*/
+	padding:0px;
+	margin:0px;
+}
+html{
+	background: #c0c0c0;
+}
+body{
+	height: 650px;/*pixles de alto*/
+	width: 500px;/*pixles de ancho*/
+	background: white;
+	margin: auto;/*lo pone automatico en el centro*/
+	margin-top:15px;/*margen de la parte superior*/
+}
+header{
+	height: 250;/*pixles de alto*/
+	width: 500;/*pixles de ancho*/
+	background: rgb(231, 175, 21);
+}
+
+main{
+    height: 420px;
+    width: 500px;
+
+}
+footer{
+	height:50px;
+	background: rgb(255, 64, 64);
+}
